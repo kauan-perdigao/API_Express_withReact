@@ -1,1 +1,1 @@
-# Full Stack: React + Express + Postgres
+## API Full Stack: React + Express + Node + Postgres
